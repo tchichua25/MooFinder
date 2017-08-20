@@ -1,0 +1,2 @@
+destination = gmaps.latlng_to_address(a, b)
+print destination
